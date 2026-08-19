@@ -1,8 +1,25 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Okolo%20Uchenna&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20EdTech%20Builder%20%E2%80%A2%20CS%20Educator&descAlignY=57&descAlign=58"/>
+```text
+┌──────────────────────────────────────────────┐
+│  OKOLO UCHENNA MAXWELL                       │
+│  Software Developer  •  EdTech Builder       │
+│  Computer Science Educator                   │
+└──────────────────────────────────────────────┘
+```
+
+<p align="center">
+  <strong>Founder &amp; CEO @ <a href="https://www.edumaxsolutions.com.ng/">EduMax Solutions</a></strong><br/>
+  6+ Years in Education &amp; Technology
+</p>
+
+<p align="center">
+  <a href="https://www.edumaxsolutions.com.ng/"><img src="https://img.shields.io/badge/www.edumaxsolutions.com.ng-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="EduMax website" /></a>
+  <a href="mailto:info@edumaxsolutions.com.ng"><img src="https://img.shields.io/badge/info@edumaxsolutions.com.ng-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://api.whatsapp.com/send?phone=2348059403939"><img src="https://img.shields.io/badge/WhatsApp-2348059403939-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+</p>
 
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=I+build+practical+software+for+education%2C+schools+%26+businesses.;Specializing+in+CBT+%7C+LMS+%7C+School+Portals+%7C+Offline-First+Apps;Founder+%26+CEO+%40+EduMax+Solutions+%7C+6%2B+Years+in+Education)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=C4A574&center=true&vCenter=true&width=720&lines=I+build+practical+software+for+education%2C+schools+%26+businesses.;Specializing+in+CBT+%7C+LMS+%7C+School+Portals+%7C+Offline-First+Apps;If+it+doesn't+work+without+internet+—+it+doesn't+work.)](https://git.io/typing-svg)
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=eduvibe&label=Profile%20views&color=0A66C2&style=for-the-badge" alt="profile views" />
@@ -11,13 +28,18 @@
     <img src="https://img.shields.io/badge/Location-Nigeria-22C55E?style=for-the-badge" alt="location" />
   </p>
 
-  <p>
-    <a href="https://www.edumaxsolutions.com.ng/"><img src="https://img.shields.io/badge/Flagship-EduMax%20Solutions-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-    <a href="mailto:info@edumaxsolutions.com.ng"><img src="https://img.shields.io/badge/Email-info%40edumaxsolutions.com.ng-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-    <a href="https://api.whatsapp.com/send?phone=2348059403939"><img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
-  </p>
-
 </div>
+
+This repository is both my GitHub profile and a full developer portfolio site.
+
+```bash
+npm install
+npm run dev
+```
+
+Then open the local preview. Production build: `npm run build`.
+
+---
 
 ### 👋 About Me
 
@@ -135,7 +157,6 @@ Comprehensive, affordable EdTech suite trusted by primary & secondary schools. B
 `Next.js` `React` `Supabase` `MySQL` `Offline-First` `LMS` `CBT`
 
 [![Live Demo](https://img.shields.io/badge/LIVE-DEMO-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.edumaxsolutions.com.ng/)
-[![Case Study](https://img.shields.io/badge/Details-View_Platform-22C55E?style=for-the-badge)](#)
 
 ---
 
@@ -222,21 +243,21 @@ const OkoloUchenna = {
   location: "Nigeria 🇳🇬",
   company: "Founder & CEO @ EduMax Solutions",
   mission: "Transforming education through practical technology",
-  
+
   currentlyBuilding: [
     "Offline-first CBT platform with advanced anti-cheat",
     "ExamVault - Secure exam integrity system",
     "RSM - Realtime Student Management with cashless voucher system",
     "Next-gen School Portal with parent mobile experience"
   ],
-  
+
   techFocus: [
     "Offline-first architectures for low-connectivity schools",
     "Scalable Laravel + MySQL systems for 10k+ students",
     "React/Next.js performance for rural internet conditions",
     "Supabase for real-time school data sync"
   ],
-  
+
   edtechPhilosophy: "If it doesn't work without internet, in a noisy computer lab, with a non-tech-savvy teacher — it doesn't work for Nigerian schools.",
 
   openTo: ["EdTech collaborations", "School digitization projects", "Freelance EdTech consulting"]
@@ -297,6 +318,7 @@ If you're a **school owner, educator, EdTech founder, or business** looking to d
 [![Email](https://img.shields.io/badge/Email-info%40edumaxsolutions.com.ng-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@edumaxsolutions.com.ng)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B234_805_940_3939-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=2348059403939&text=Hello%20Okolo%2C%20I%20saw%20your%20GitHub%20portfolio!)
 [![GitHub](https://img.shields.io/badge/GitHub-eduvibe-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduvibe)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-okolo--uchenna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/okolo-uchenna-6700451a7/)
 
 </p>
 
@@ -311,17 +333,9 @@ If you're a **school owner, educator, EdTech founder, or business** looking to d
 
 <div align="center">
 
-### 💡 *"Teach without limits. Test without bias. Trusted tech for true student performance."*
+### 💡 *“Teach without limits. Test without bias. Trusted tech for true student performance.”*
 **— EduMax Philosophy**
 
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&text=Building%20The%20Future%20of%20African%20Education&fontSize=20&fontColor=ffffff&animation=fadeIn"/>
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
-
-<sub>© 2026 Okolo Uchenna • Crafted with ❤️ for Education</sub>
+<sub>© 2026 Okolo Uchenna Maxwell • Crafted for Education</sub>
 
 </div>
